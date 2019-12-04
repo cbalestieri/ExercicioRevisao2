@@ -7,6 +7,5 @@ public class Principal {
     Materia Matematica = new Materia();
     Materia Sociologia = new Materia();
     Materia Artes = new Materia();
-
     }
 }
